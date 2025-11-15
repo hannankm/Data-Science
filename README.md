@@ -9,7 +9,7 @@ By completing this task, students will gain hands-on experience in creating repo
 
 ---
 
-## 🎯 Upon Successful Completion, You Will Be Able To:
+## Upon Successful Completion, You Will Be Able To:
 
 - Create a local Git repository and make your first commit.
 - Create a remote repository on GitHub.
@@ -33,3 +33,4 @@ By completing this task, students will gain hands-on experience in creating repo
 Email - hanankmoh@gmail.com
 
 <img width="1345" height="501" alt="image" src="https://github.com/user-attachments/assets/41ee1c7a-c865-4842-b82f-7d343cd1f6a9" />
+
